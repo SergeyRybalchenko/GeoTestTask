@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMathLib", "GeoMathLib\GeoMathLib.csproj", "{3F0447E7-F85D-4862-BE61-65623C4D9987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMathUserApp", "GeoMathUserApp\GeoMathUserApp.csproj", "{70D77096-97D8-4997-8566-BDF2CF815C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoMathTests", "GeoMathTests\GeoMathTests.csproj", "{7786B640-DB34-4E83-9E58-5B564F58D54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0447E7-F85D-4862-BE61-65623C4D9987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0447E7-F85D-4862-BE61-65623C4D9987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0447E7-F85D-4862-BE61-65623C4D9987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0447E7-F85D-4862-BE61-65623C4D9987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D77096-97D8-4997-8566-BDF2CF815C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D77096-97D8-4997-8566-BDF2CF815C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D77096-97D8-4997-8566-BDF2CF815C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D77096-97D8-4997-8566-BDF2CF815C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7786B640-DB34-4E83-9E58-5B564F58D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7786B640-DB34-4E83-9E58-5B564F58D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7786B640-DB34-4E83-9E58-5B564F58D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7786B640-DB34-4E83-9E58-5B564F58D54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C807CBD-A7BE-48F7-8F07-D7197E8798B7}
+	EndGlobalSection
+EndGlobal
